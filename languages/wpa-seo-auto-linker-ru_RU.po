@@ -1,0 +1,366 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPA SEO Auto Linker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-30 10:03+0000\n"
+"PO-Revision-Date: 2019-05-30 10:48+0000\n"
+"Last-Translator: MadBadJack <mad@madbadjack.com>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1"
+
+#: wpa-seo-auto-linker-admin.php:145
+msgid "Add a nofollow attribute to the external links."
+msgstr "Добавьте атрибут nofollow к внешним ссылкам."
+
+#: wpa-seo-auto-linker-admin.php:101 wpa-seo-auto-linker-admin.php:105
+msgid "Add a tag"
+msgstr "Добавьте метку"
+
+#: wpa-seo-auto-linker-admin.php:144
+msgid "Add nofollow"
+msgstr "Добавить атрибут nofollow"
+
+#: wpa-seo-auto-linker-admin.php:66
+msgid ""
+"Allow processing of RSS feeds. WPA SEO Auto Linker will embed links in all "
+"posts in your RSS feed (according to other options)."
+msgstr ""
+"Разрешить обработку RSS-каналов. WPA SEO Auto Linker будет вставлять ссылки "
+"во все сообщения в вашем RSS-канале (согласно другим параметрам)."
+
+#: wpa-seo-auto-linker-admin.php:54 wpa-seo-auto-linker-admin.php:58
+msgid "Allow self linking"
+msgstr "Разрешить внутренние ссылки"
+
+#. Author of the plugin
+msgid "Arjan Olsder"
+msgstr "Arjan Olsder"
+
+#: wpa-seo-auto-linker-admin.php:81
+msgid "Case sensitive"
+msgstr "С учетом регистра"
+
+#: wpa-seo-auto-linker-admin.php:132
+msgid "Categories"
+msgstr "Категории"
+
+#: wpa-seo-auto-linker-admin.php:61
+msgid "Comments"
+msgstr "Комментарии"
+
+#: wpa-seo-auto-linker-admin.php:23
+msgid "Custom Keywords"
+msgstr "Пользовательские Ключевые Слова"
+
+#: wpa-seo-auto-linker-admin.php:54 wpa-seo-auto-linker-admin.php:58
+#: wpa-seo-auto-linker-admin.php:62 wpa-seo-auto-linker-admin.php:66
+#: wpa-seo-auto-linker-admin.php:82 wpa-seo-auto-linker-admin.php:109
+#: wpa-seo-auto-linker-admin.php:125 wpa-seo-auto-linker-admin.php:129
+#: wpa-seo-auto-linker-admin.php:133 wpa-seo-auto-linker-admin.php:137
+#: wpa-seo-auto-linker-admin.php:145 wpa-seo-auto-linker-admin.php:149
+msgid "Enable"
+msgstr "Разрешить/Включить"
+
+#: wpa-seo-auto-linker-admin.php:133
+msgid "Enable to link internal links to categories."
+msgstr "Включить связь внутренних ссылок с категориями."
+
+#: wpa-seo-auto-linker-admin.php:129
+msgid "Enable to link internal links to pages."
+msgstr "Включить связь внутренних ссылок со страницами."
+
+#: wpa-seo-auto-linker-admin.php:125
+msgid "Enable to link internal links to posts."
+msgstr "Включить связь внутренних ссылок с записями."
+
+#: wpa-seo-auto-linker-admin.php:137
+msgid "Enable to link internal links to tags."
+msgstr "Включить связь внутренних ссылок с метками."
+
+#: wpa-seo-auto-linker-admin.php:97
+msgid "Exclude"
+msgstr "Исключить"
+
+#: wpa-seo-auto-linker-admin.php:91
+msgid "Excluding"
+msgstr "Исключенные"
+
+#: wpa-seo-auto-linker-admin.php:30
+msgid "google webmaster, http://www.google.com/webmasters/"
+msgstr "google webmaster, http://www.google.com/webmasters/"
+
+#: wpa-seo-auto-linker-admin.php:33
+msgid "Grouped keywords"
+msgstr "Сгруппированные ключевые слова"
+
+#: wpa-seo-auto-linker-admin.php:96
+msgid "Heading"
+msgstr "Заголовок"
+
+#: wpa-seo-auto-linker-admin.php:25
+msgid ""
+"Here you can enter manually the extra keywords you want to automaticaly link."
+" Use comma to seperate keywords and add target url at the end. Use a new "
+"line for new url and set of keywords. You can have these keywords link to "
+"any url, not only your site."
+msgstr ""
+"Здесь вы можете вручную ввести дополнительные ключевые слова, которые вы "
+"хотите автоматически связать. Используйте запятую для разделения ключевых "
+"слов и добавления целевого url в конце. Используйте новую строку для нового "
+"url и набора ключевых слов. Вы можете направить эти ключевые слова на любой "
+"url, а не только на ваш сайт."
+
+#. Author URI of the plugin
+msgid "https://www.wpassist.tech"
+msgstr "https://www.wpassist.tech"
+
+#. URI of the plugin
+msgid "https://www.wpassist.tech/wordpress-plugins/wpa-seo-auto-linker/"
+msgstr "https://www.wpassist.tech/wordpress-plugins/wpa-seo-auto-linker/"
+
+#: wpa-seo-auto-linker-admin.php:18
+msgid ""
+"If you find any bugs or have ideas for the plugin, please let me know at:"
+msgstr ""
+"Если вы обнаружите какие-либо ошибки или есть идеи для плагина, пожалуйста, "
+"дайте мне знать:"
+
+#: wpa-seo-auto-linker-admin.php:104
+msgid "Ignore keywords"
+msgstr "Игнорировать ключевые слова"
+
+#: wpa-seo-auto-linker-admin.php:100
+msgid "Ignore posts / pages"
+msgstr "Игнорировать записи/страницы"
+
+#: wpa-seo-auto-linker-admin.php:47
+msgid "Internal Links"
+msgstr "внутренние ссылки"
+
+#: wpa-seo-auto-linker-admin.php:29
+msgid "Keywords & links"
+msgstr "Ключевые слова и ссылки"
+
+#: wpa-seo-auto-linker-admin.php:160
+msgid ""
+"Like what we do? <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-"
+"xclick&hosted_button_id=5LRFCEJLZQW7A\" target=\"_blank\">Buy us a drink, or "
+"a couple of drinks</a>"
+msgstr ""
+"Нравится наша работа? <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-"
+"xclick&hosted_button_id=5LRFCEJLZQW7A\" target=\"_blank\">Купите нам "
+"выпивку</a>"
+
+#: wpa-seo-auto-linker-admin.php:78
+msgid ""
+"Limit number of same URLs the plugin will link to. Works only when Max "
+"Keyword Links above is set to 1. Set to 0 for no limit."
+msgstr ""
+"Ограничить количество одинаковых URL-адресов, на которые будет ссылаться "
+"плагин. Работает только тогда, когда Max Keyword Links имеет значение 1. "
+"Установите значение 0 для снятия ограничений."
+
+#: wpa-seo-auto-linker-admin.php:38
+msgid "Load custom keywords from a URL. This appends to the list above."
+msgstr ""
+"Загрузите пользовательские ключевые слова из URL-адреса. Добавятся к "
+"приведенному выше списку."
+
+#: wpa-seo-auto-linker-admin.php:37
+msgid "Load from URL"
+msgstr "Загрузить по ссылке"
+
+#: wpa-seo-auto-linker-admin.php:73
+msgid "Max Keyword Links"
+msgstr "Максимум ключевых ссылок"
+
+#: wpa-seo-auto-linker-admin.php:69
+msgid "Max Links"
+msgstr "Максимум ссылок"
+
+#: wpa-seo-auto-linker-admin.php:77
+msgid "Max Same URLs"
+msgstr "Максимум одинаковых url-адресов"
+
+#: wpa-seo-auto-linker-admin.php:62 wpa-seo-auto-linker-admin.php:133
+#: wpa-seo-auto-linker-admin.php:137
+msgid "May slow down performance."
+msgstr "Может замедлить производительность."
+
+#: wpa-seo-auto-linker-admin.php:140
+msgid "Minimum categories / tags"
+msgstr "Минимум категорий/меток"
+
+#: wpa-seo-auto-linker-admin.php:141
+msgid ""
+"Only link categories and tags that have been used the above number of times "
+"or more."
+msgstr ""
+"Только ссылки на категории и метки которые были использованы ранее один или "
+"более раз."
+
+#: wpa-seo-auto-linker-admin.php:148
+msgid "Open in new window"
+msgstr "Открывать в новом окне"
+
+#: wpa-seo-auto-linker-admin.php:149
+msgid "Open the external links in a new window."
+msgstr "Открывать внешние ссылки в новом окне."
+
+#: wpa-seo-auto-linker-admin.php:57 wpa-seo-auto-linker-admin.php:128
+msgid "Pages"
+msgstr "Страницы"
+
+#: wpa-seo-auto-linker.php:376
+msgid "Plugin settings saved."
+msgstr "Настройки плагина сохранены."
+
+#: wpa-seo-auto-linker-admin.php:18
+msgid "Post your found bug or idea at WordPress.org"
+msgstr "Отправьте найденные ошибки или ваши идеи на WordPress.org"
+
+#: wpa-seo-auto-linker-admin.php:53 wpa-seo-auto-linker-admin.php:124
+msgid "Posts"
+msgstr "Записи"
+
+#: wpa-seo-auto-linker-admin.php:34
+msgid "Prevent duplicate"
+msgstr "Предотвращение дублирования"
+
+#: wpa-seo-auto-linker-admin.php:34
+msgid ""
+"Prevent Duplicate links for grouped keywords (will link only first of the "
+"keywords found in text)."
+msgstr ""
+"Запретить дублирование ссылок для сгруппированных ключевых слов (свяжет "
+"только первое из ключевых слов, найденных в тексте)."
+
+#: wpa-seo-auto-linker-admin.php:97
+msgid "Prevent linking in heading tags (h1, h2, h3, h4, h5 and h6)."
+msgstr "Запретить связывание тегов заголовков (h1, h2, h3, h4, h5 и h6)."
+
+#: wpa-seo-auto-linker-admin.php:65
+msgid "RSS feeds"
+msgstr "RSS канал"
+
+#: wpa-seo-auto-linker-admin.php:42 wpa-seo-auto-linker-admin.php:86
+#: wpa-seo-auto-linker-admin.php:113 wpa-seo-auto-linker-admin.php:153
+msgid "Save all settings"
+msgstr "Сохранить все настройки"
+
+#: wpa-seo-auto-linker-admin.php:82
+msgid "Set whether matching should be case sensitive."
+msgstr "Установите, учитывать регистр или нет."
+
+#: wpa-seo-auto-linker-admin.php:108
+msgid "Single posts / pages only"
+msgstr "Только отдельные записи / страницы"
+
+#: wpa-seo-auto-linker-admin.php:136
+msgid "Tags"
+msgstr "Метки"
+
+#: wpa-seo-auto-linker-admin.php:118
+msgid "Targeting"
+msgstr "Таргетинг/Цели"
+
+#: wpa-seo-auto-linker-admin.php:120
+msgid ""
+"The targets WPA SEO Auto Linker should consider. The match will be based on "
+"post/page title or category/tag name, case insensitive."
+msgstr ""
+"Цели WPA SEO Auto Linker должны учитываться. Совпадение будет основано на "
+"названии записи / страницы или категории / имени метки, без учета регистра."
+
+#: wpa-seo-auto-linker-admin.php:109
+msgid ""
+"To reduce database load you can choose to have WPA SEO Auto Linker work only "
+"on single posts and pages (for example not on main page or archives)."
+msgstr ""
+"Чтобы уменьшить нагрузку на базу данных, вы можете использовать WPA SEO Auto "
+"Linker только для отдельных записей и страниц (например, не на главной "
+"странице или в архивах)."
+
+#: wpa-seo-auto-linker-admin.php:30
+msgid "wiki, wikipedia, http://wikipedia.org"
+msgstr "wiki, wikipedia, http://wikipedia.org"
+
+#: wpa-seo-auto-linker-admin.php:17
+msgid ""
+"With WPA SEO Auto Linker you can easily add (automatically) links for "
+"keywords and phrases in posts, pages and comments and link them to "
+"corresponding posts, pages, categories, tags or any URL. Set the following "
+"settings to your own needs and let WPA SEO Auto Linker do the work for you."
+msgstr ""
+"С WPA SEO Auto Linker вы можете легко добавлять (автоматически) ссылки на "
+"ключевые слова и фразы в сообщениях, страницах и комментариях и связывать их "
+"с соответствующими сообщениями, страницами, категориями, тегами или любым "
+"URL. Установите следующие настройки для ваших собственных нужд, и пусть WPA "
+"SEO Auto Linker сделает работу за вас."
+
+#. Name of the plugin
+msgid "WPA SEO Auto Linker"
+msgstr "WPA SEO Auto Linker"
+
+#: wpa-seo-auto-linker-admin.php:49
+msgid ""
+"WPA SEO Auto Linker can process your posts, pages and comments in search for "
+"keywords to automatically interlink."
+msgstr ""
+"WPA SEO Auto Linker может обрабатывать ваши записи, страницы и комментарии в "
+"поисках ключевых слов для автоматической взаимосвязи."
+
+#. Description of the plugin
+msgid ""
+"WPA SEO Auto Linker is based on the original SEO Auto Links plugin by "
+"Maarten Brakkee. It allows you to setup a list of keywords with default "
+"internal and external links. Development of the original plugin seems to "
+"have ended as it broke after migrating to PHP 7. If you have a deactivated "
+"version of the original plugin, keep it deactivated. Install this one and "
+"the original settings will be used."
+msgstr ""
+"WPA SEO Auto Linker на основе оригинального SEO Auto Links плагина от "
+"Maarten Brakkee. Он позволяет настроить список ключевых слов с внутренними и "
+"внешними ссылками по умолчанию. Разработка оригинального плагина, похоже, "
+"закончилась, поскольку он перестал работать после перехода на PHP 7. Если у "
+"вас есть деактивированная версия оригинального плагина, держите его "
+"деактивированным. Установите этот, и будут использованы исходные настройки."
+
+#: wpa-seo-auto-linker-admin.php:70
+msgid ""
+"You can limit the maximum number of different links that will be generated "
+"per post. Set to 0 for no limit."
+msgstr ""
+"Вы можете ограничить максимальное количество различных ссылок, которые будут "
+"сгенерированы для записи. Установите значение 0 для отключения лимита."
+
+#: wpa-seo-auto-linker-admin.php:74
+msgid ""
+"You can limit the maximum number of links created with the same keyword. Set "
+"to 0 for no limit."
+msgstr ""
+"Можно ограничить максимальное количество ссылок, созданных с помощью одного "
+"ключевого слова. Установите значение 0 для отключения лимита."
+
+#: wpa-seo-auto-linker-admin.php:101
+msgid ""
+"You may wish to forbid automatic linking on certain posts or pages. Separate "
+"them by comma (ID, slug or name)."
+msgstr ""
+"Вы можете запретить автоматическую ссылку на определенные записи или "
+"страницы. Разделите их запятыми (указывайте ID, slug или имя)."
+
+#: wpa-seo-auto-linker-admin.php:105
+msgid ""
+"You may wish to ignore certain words or phrases from automatic linking. "
+"Separate them by comma."
+msgstr ""
+"Вы можете игнорировать определенные слова или фразы из автоматического "
+"связывания. Разделите их запятыми."
